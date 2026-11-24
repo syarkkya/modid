@@ -1,0 +1,25 @@
+{
+  "modid.config.title": "Настройки Mod Name",
+
+  "modid.config.server": "Сервер",
+  "modid.config.server.tooltip": "Серверные настройки",
+
+  "modid.config.server.option": "Серверная опция",
+  "modid.config.server.option.desc": "Описание серверной опции",
+  "modid.config.server.option.on": "Включен",
+  "modid.config.server.option.off": "Выключен",
+
+  "modid.config.client": "Клиент",
+  "modid.config.client.tooltip": "Клиентские настройки",
+
+  "modid.config.client.option": "Клиентская опция",
+  "modid.config.client.option.desc": "Описание клиентской опции",
+  "modid.config.client.option.on": "Включен",
+  "modid.config.client.option.off": "Выключен",
+
+  "modid.config.yaclmissing": "§eТребуется библиотека конфигурации!",
+  "modid.config.yaclmissing.desc": "Этому моду необходим §7YetAnotherConfigLib§r для доступа к меню настроек.\n\nЖелаете перейти на §aModrinth§r, чтобы скачать актуальную версию?",
+
+  "modmenu.summaryTranslation.modid": "Описание Mod Name",
+  "modmenu.descriptionTranslation.modid": "Полное описание Mod Name"
+}

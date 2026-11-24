@@ -1,0 +1,25 @@
+{
+  "modid.config.title": "Mod Name Settings",
+
+  "modid.config.server": "Server",
+  "modid.config.server.tooltip": "Server-side settings",
+
+  "modid.config.server.option": "Server Option",
+  "modid.config.server.option.desc": "Description for server-side option",
+  "modid.config.server.option.on": "Enabled",
+  "modid.config.server.option.off": "Disabled",
+
+  "modid.config.client": "Client",
+  "modid.config.client.tooltip": "Client-side settings",
+
+  "modid.config.client.option": "Client Option",
+  "modid.config.client.option.desc": "Description for client-side option",
+  "modid.config.client.option.on": "Enabled",
+  "modid.config.client.option.off": "Disabled",
+
+  "modid.config.yaclmissing": "§eConfiguration Library Required!",
+  "modid.config.yaclmissing.desc": "This mod requires §7YetAnotherConfigLib§r to access the configuration menu.\n\nWould you like to visit §aModrinth§r to download the latest version?",
+
+  "modmenu.summaryTranslation.modid": "Mod Name Summary",
+  "modmenu.descriptionTranslation.modid": "Mod Name Description"
+}
